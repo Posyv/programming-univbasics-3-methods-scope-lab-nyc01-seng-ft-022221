@@ -1,4 +1,3 @@
-$catchys = "phrases"
 
 def mario
   phrase = "It's-a me, Mario!"
@@ -24,4 +23,3 @@ def all_phrases
   puts saying
 end
 all_phrases
-end
