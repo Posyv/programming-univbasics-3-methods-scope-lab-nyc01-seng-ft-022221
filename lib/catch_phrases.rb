@@ -16,5 +16,3 @@ def link
   puts saying
 end
 link
-
-
