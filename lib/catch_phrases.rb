@@ -17,9 +17,4 @@ def link
 end
 link
 
-def all_phrases
-  puts phrase
-  puts status
-  puts saying
-end
-all_phrases
+
